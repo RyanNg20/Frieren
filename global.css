@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+  background-color: #668367;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  overflow: hidden;
+  color: white;
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 32px;
+}
+h2 {
+  font-size: 20px;
+}
+p {
+  font-size: 24px;
+}
